@@ -1,5 +1,6 @@
 import re
 
+#Necesitamos el fichero de entrada output.txt, que genera S7
 linea=[0,0,0,0,0,0];
 archivo = open('Output.txt','r');
 archgen = open('OutputG.txt','w');
